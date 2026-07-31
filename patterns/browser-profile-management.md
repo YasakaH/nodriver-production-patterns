@@ -45,3 +45,4 @@ def profile_is_locked(profile_dir: Path) -> bool:
 
 - `session-health-check.md` — validate a session before doing real work
 - `production-readiness.md` — full deployment checklist
+- Python Browser Automation Cookbook - https://gum.co/python-browser-automation-cookbook
