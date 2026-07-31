@@ -29,3 +29,4 @@ async def robust_get(browser, url, retries=3):
 
 - `browser-profile-management.md`
 - `production-readiness.md`
+- Python Browser Automation Cookbook - https://gum.co/python-browser-automation-cookbook
