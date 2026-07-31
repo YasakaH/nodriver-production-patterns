@@ -22,3 +22,4 @@ async def session_is_valid(browser, check_url: str) -> bool:
 
 - `browser-profile-management.md`
 - `production-readiness.md`
+- Python Browser Automation Cookbook - https://gum.co/python-browser-automation-cookbook
