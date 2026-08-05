@@ -35,9 +35,9 @@ browser = await nodriver.start(user_data_dir="./profiles/job-1")
 Full explanations of the patterns behind the failures these recipes prevent:
 
 - Why browser profiles break (and how to fix them):
-  https://versatilesparks.qzz.io/blog/why-browser-profiles-break
+  https://versatilesparks.pages.dev/blog/why-browser-profiles-break
 - 5 mistakes new nodriver users make (and how to avoid them):
-  https://versatilesparks.qzz.io/blog/5-mistakes-nodriver-beginners
+  https://versatilesparks.pages.dev/blog/5-mistakes-nodriver-beginners
 
 ## License
 

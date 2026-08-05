@@ -45,4 +45,5 @@ def profile_is_locked(profile_dir: Path) -> bool:
 
 - `session-health-check.md` — validate a session before doing real work
 - `production-readiness.md` — full deployment checklist
+- Full article: "Why Your nodriver Browser Profiles Break (and How to Fix Them)" - https://versatilesparks.pages.dev/blog/why-browser-profiles-break
 - Python Browser Automation Cookbook - https://gum.co/python-browser-automation-cookbook

@@ -29,4 +29,5 @@ async def robust_get(browser, url, retries=3):
 
 - `browser-profile-management.md`
 - `production-readiness.md`
+- Full article: "5 Mistakes New nodriver Users Make (and How to Avoid Them)" - https://versatilesparks.pages.dev/blog/5-mistakes-nodriver-beginners
 - Python Browser Automation Cookbook - https://gum.co/python-browser-automation-cookbook

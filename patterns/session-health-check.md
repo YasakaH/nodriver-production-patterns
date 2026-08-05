@@ -22,4 +22,5 @@ async def session_is_valid(browser, check_url: str) -> bool:
 
 - `browser-profile-management.md`
 - `production-readiness.md`
+- Full article: "Why Your nodriver Browser Profiles Break (and How to Fix Them)" - https://versatilesparks.pages.dev/blog/why-browser-profiles-break
 - Python Browser Automation Cookbook - https://gum.co/python-browser-automation-cookbook
